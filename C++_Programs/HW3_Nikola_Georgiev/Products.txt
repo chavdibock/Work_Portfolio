@@ -1,3 +1,0 @@
-Coca cola$ 1.5 10
-Water$ 2 23
-Paper$ 20 2
