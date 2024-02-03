@@ -1,0 +1,9 @@
+﻿  Category.cpp
+  HomeWork_3_NG.cpp
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW3_NG\HomeWork_3_NG\HomeWork_3_NG.cpp(47,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Item.cpp
+  Product.cpp
+  Service.cpp
+  Generating Code...
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW3_NG\HomeWork_3_NG\Category.cpp(51): warning C4715: 'Category::getParent': not all control paths return a value
+  HomeWork_1_NG.vcxproj -> D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW3_NG\HomeWork_3_NG\x64\Debug\HomeWork_1_NG.exe
