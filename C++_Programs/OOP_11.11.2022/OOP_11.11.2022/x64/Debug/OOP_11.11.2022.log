@@ -1,0 +1,4 @@
+﻿  BinarySearch.cpp
+D:\Visual_studio\OOP_11.11.2022\OOP_11.11.2022\BinarySearch.cpp(40,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual_studio\OOP_11.11.2022\OOP_11.11.2022\BinarySearch.cpp(46,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  OOP_11.11.2022.vcxproj -> D:\Visual_studio\OOP_11.11.2022\x64\Debug\OOP_11.11.2022.exe
