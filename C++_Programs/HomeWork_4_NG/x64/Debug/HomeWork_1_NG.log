@@ -1,0 +1,11 @@
+﻿  Category.cpp
+  HomeWork_4_NG.cpp
+  Item.cpp
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW2_NG\HomeWork_4_NG\Item.cpp(58,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW2_NG\HomeWork_4_NG\Item.cpp(86,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW2_NG\HomeWork_4_NG\Item.cpp(87,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Product.cpp
+  Service.cpp
+  Generating Code...
+D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW2_NG\HomeWork_4_NG\Category.cpp(51): warning C4715: 'Category::getParent': not all control paths return a value
+  HomeWork_1_NG.vcxproj -> D:\AUBG\COS_Major\COS_221_Georgiev_Fall_2023\Homeworks\COS221_FALL_2023_HW2_NG\HomeWork_4_NG\x64\Debug\HomeWork_1_NG.exe
